@@ -3,4 +3,8 @@ Calculates Load for Power Pros
 
 http://www.tnthawaii.biz/features_487.htm
 
-Some screenshots and some icons :)
+Some screenshots 
+
+Some icons 
+
+And an application :)
