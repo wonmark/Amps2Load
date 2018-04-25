@@ -7,4 +7,6 @@ Some screenshots
 
 Some icons 
 
-And an application :)
+Promotional Graphic
+
+And an application with different name and both jar and some other thing :)
